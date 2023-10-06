@@ -1,0 +1,15 @@
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-fc4bb\bin\Debug\net6.0\hw-fc4bb.exe
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-fc4bb\bin\Debug\net6.0\hw-fc4bb.deps.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-fc4bb\bin\Debug\net6.0\hw-fc4bb.runtimeconfig.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-fc4bb\bin\Debug\net6.0\hw-fc4bb.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-fc4bb\bin\Debug\net6.0\hw-fc4bb.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-fc4bb\obj\Debug\net6.0\hw-fc4bb.csproj.AssemblyReference.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-fc4bb\obj\Debug\net6.0\hw-fc4bb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-fc4bb\obj\Debug\net6.0\hw-fc4bb.AssemblyInfoInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-fc4bb\obj\Debug\net6.0\hw-fc4bb.AssemblyInfo.cs
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-fc4bb\obj\Debug\net6.0\hw-fc4bb.csproj.CoreCompileInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-fc4bb\obj\Debug\net6.0\hw-fc4bb.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-fc4bb\obj\Debug\net6.0\refint\hw-fc4bb.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-fc4bb\obj\Debug\net6.0\hw-fc4bb.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-fc4bb\obj\Debug\net6.0\hw-fc4bb.genruntimeconfig.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-fc4bb\obj\Debug\net6.0\ref\hw-fc4bb.dll

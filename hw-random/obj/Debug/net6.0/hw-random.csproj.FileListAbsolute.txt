@@ -1,0 +1,15 @@
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-random\bin\Debug\net6.0\hw-random.exe
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-random\bin\Debug\net6.0\hw-random.deps.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-random\bin\Debug\net6.0\hw-random.runtimeconfig.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-random\bin\Debug\net6.0\hw-random.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-random\bin\Debug\net6.0\hw-random.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-random\obj\Debug\net6.0\hw-random.csproj.AssemblyReference.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-random\obj\Debug\net6.0\hw-random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-random\obj\Debug\net6.0\hw-random.AssemblyInfoInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-random\obj\Debug\net6.0\hw-random.AssemblyInfo.cs
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-random\obj\Debug\net6.0\hw-random.csproj.CoreCompileInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-random\obj\Debug\net6.0\hw-random.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-random\obj\Debug\net6.0\refint\hw-random.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-random\obj\Debug\net6.0\hw-random.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-random\obj\Debug\net6.0\hw-random.genruntimeconfig.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw-random\obj\Debug\net6.0\ref\hw-random.dll
